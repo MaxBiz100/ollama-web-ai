@@ -2,11 +2,13 @@ Use this link to test the pages
 
 https://hpssjellis.github.io/ollama-web-ai/drafts/ollama-web##.html
 
+Note ollama-web21.html is seriously powerful with image, video and pure audio translation.
+
 The real page should just be downloaded to your computer so that internet is not needed.
 
 
 
-For testing we have 
+For testing we have (BUT THAT IS A SERIOUS SECURITY ISSUE.) The PWA will be different.
 
 ```
 setx OLLAMA_ORIGINS "*"
